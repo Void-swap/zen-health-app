@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: #FFFFFF
+  image: assets/logo/zen_health_logo.jpg
+
+android_12:
+    color: #FFFFFF
+    image: assets/logo/zen_health_logo.jpg
+
+web: false
