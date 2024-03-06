@@ -254,9 +254,3 @@ class _SeassionCardState extends State<SeassionCard> {
     super.dispose();
   }
 }
-
-void main() {
-  runApp(MaterialApp(
-    home: Mindfulness(),
-  ));
-}
