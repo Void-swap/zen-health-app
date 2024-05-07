@@ -1,3 +1,8 @@
+![GitHub Logo](https://github.com/Void-swap/zen-health-app/assets/136692389/37865147-3d24-42dc-a2da-c45b2c8d5b86)
+
+![image](https://github.com/Void-swap/zen-health-app/assets/136692389/37865147-3d24-42dc-a2da-c45b2c8d5b86)
+
+
 # Zen Health
 Welcome to Zen Health, your go-to platform for well-being!<br>
 
