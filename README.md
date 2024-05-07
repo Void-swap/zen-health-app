@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Void-swap/zen-health-app/assets/136692389/37865147-3d24-42dc-a2da-c45b2c8d5b86" alt="GitHub Logo" width="100" height="100">
+  <img src="https://github.com/Void-swap/zen-health-app/assets/136692389/37865147-3d24-42dc-a2da-c45b2c8d5b86" alt="GitHub Logo" width="auto" height="500">
 </p>
 
 # Zen Health
